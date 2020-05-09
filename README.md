@@ -1,2 +1,4 @@
 # hello-word
-Just another respository
+
+HI, everyone
+I just started writing on github
